@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Exam Score Prediction
 
 This project predicts a student's final exam score using regression techniques based on features such as:
@@ -93,3 +94,7 @@ StudentExamPrediction/
 ---
 
 Feel free to contribute or fork this project for your own educational or research use!
+=======
+# student-exam-score-prediction
+A regression-based machine learning project to predict student exam scores using study hours, attendance, and past exam performance. Built with Python, scikit-learn, and visualized with seaborn.
+>>>>>>> 310c195683aaf1ef3605ba054d75fcedcd6f231f
